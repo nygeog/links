@@ -14,7 +14,7 @@ Links
 
 ##Geodetic Datums Videos
 [Geodetic Datums - NGS Videos](http://www.ngs.noaa.gov/web/news/NGS_Videos_on_Geodetic_Datums.shtml)
-1. [What are Geodetic Datums](https://www.youtube.com/watch?v=kXTHaMY3cVk&list=PLsyDl_aqUTdFY6eKURmiCBBk-mP4R10Dx&index=2)
-2. [How Were Geodetic Datums Established?](https://www.youtube.com/watch?v=-oUFqg1Lw1U&list=PLsyDl_aqUTdFY6eKURmiCBBk-mP4R10Dx&index=2)
-3. [What Is the Status of Today's Geodetic Datums?] (https://www.youtube.com/watch?v=ZFe_rZccGOQ&list=PLsyDl_aqUTdFY6eKURmiCBBk-mP4R10Dx&index=3)
-4. [What's Next for Geodetic Datums?](https://www.youtube.com/watch?v=w69xc_U1Rao&index=4&list=PLsyDl_aqUTdFY6eKURmiCBBk-mP4R10Dx)
+  1. [What are Geodetic Datums](https://www.youtube.com/watch?v=kXTHaMY3cVk&list=PLsyDl_aqUTdFY6eKURmiCBBk-mP4R10Dx&index=2)
+  2. [How Were Geodetic Datums Established?](https://www.youtube.com/watch?v=-oUFqg1Lw1U&list=PLsyDl_aqUTdFY6eKURmiCBBk-mP4R10Dx&index=2)
+  3. [What Is the Status of Today's Geodetic Datums?] (https://www.youtube.com/watch?v=ZFe_rZccGOQ&list=PLsyDl_aqUTdFY6eKURmiCBBk-mP4R10Dx&index=3)
+  4. [What's Next for Geodetic Datums?](https://www.youtube.com/watch?v=w69xc_U1Rao&index=4&list=PLsyDl_aqUTdFY6eKURmiCBBk-mP4R10Dx)
