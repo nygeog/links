@@ -18,3 +18,9 @@ Links
   2. [How Were Geodetic Datums Established?](https://www.youtube.com/watch?v=-oUFqg1Lw1U&list=PLsyDl_aqUTdFY6eKURmiCBBk-mP4R10Dx&index=2)
   3. [What Is the Status of Today's Geodetic Datums?] (https://www.youtube.com/watch?v=ZFe_rZccGOQ&list=PLsyDl_aqUTdFY6eKURmiCBBk-mP4R10Dx&index=3)
   4. [What's Next for Geodetic Datums?](https://www.youtube.com/watch?v=w69xc_U1Rao&index=4&list=PLsyDl_aqUTdFY6eKURmiCBBk-mP4R10Dx)
+
+##Spatial Reference, Coordinate Systems, Projections, Datums, Ellipsoids - blogpost
+[Spatial references, coordinate systems, projections, datums, ellipsoids – confusing?](http://www.sharpgis.net/post/2007/05/05/Spatial-references2c-coordinate-systems2c-projections2c-datums2c-ellipsoids-e28093-confusing)
+
+##NYC Taxi Data
+[NYC Taxi Data BigQuery](http://www.reddit.com/r/bigquery/comments/28ialf/173_million_2013_nyc_taxi_rides_shared_on_bigquery/)
