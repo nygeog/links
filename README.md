@@ -24,3 +24,8 @@ Links
 
 ##NYC Taxi Data
 [NYC Taxi Data BigQuery](http://www.reddit.com/r/bigquery/comments/28ialf/173_million_2013_nyc_taxi_rides_shared_on_bigquery/)
+
+
+
+https://www.census.gov/geo/reference/gtc/gtc_place.html
+http://www.census.gov/dmd/www/glossary.html
